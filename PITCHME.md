@@ -11,18 +11,25 @@ https://gitpitch.com/Tocchann/CrossPlatform2019-11
 とっちゃん  
 わんくま同盟
 
-@Toccchann
+http://blogs.wankuma.com/tocchann/default.aspx
+@Tocchann
 https://www.facebook.com/toshiyuki.takahagi
 https://github.com/tocchann/
 
 Microsoft MVP for Developer Technologies  
-Since 2005/10～
+Since 2005/10～  
+https://mvp.microsoft.com/ja-jp/PublicProfile/32182
 
 +++
 
-次回わんくま同盟東京勉強会は 12/14 です！  
+### わんくま同盟東京勉強会のお知らせ
+
+12/14 新宿お菜家で開催  
 私もしゃべります  
 (ここだけの話、まだ決めてない)
+
+続報は http://www.wankuma.com/seminar/ で！  
+https://wankuma.connpass.com/ でもOK(告知オンリー)
 
 ---
 
@@ -36,8 +43,9 @@ Since 2005/10～
 
 ### Cross-Platform なアプリ開発？
 
-Cross-Platform(Multi-Platform)  
-→ 複数環境
+Cross-Platform  
+→ 複数環境  
+Multi-Platform と呼ぶ場合もある
 
 アプリ開発  
 → エンドユーザーが利用するプログラムの開発
@@ -46,21 +54,18 @@ Cross-Platform(Multi-Platform)
 
 ### 考えておきたい点？
 
-プログラムを作る上で考慮しておくべき多々ある事柄のうち、Cross-Platform に特有なちょっとだけ気を付けておくといいようなことを考えてみました。
-
-ちょっとだけ気を付けておくといいことを羅列してみました。
+プログラムを作る上で、考慮しておくべき多々ある事柄のうち、特有でちょっとだけ気を付けておくといいようなことを考えてみました。
 
 ---
 
-### 結論から
+### 一番大事なのは
 
-Cross-Platform(Multi-Platform) なアプリ開発においては  
+Cross-Platform(Multi-Platform) な  
+アプリ開発においては  
 **プロダクト(製品)** の  
 **ポータビリティ** を  
 **高く維持した状態** で  
-開発すること
-
-が望ましい。
+開発を継続すること
 
 ---
 
@@ -79,7 +84,8 @@ Cross-Platform(Multi-Platform) なアプリ開発においては
 
 可搬性が高い
 
-ソースコードを「一切」修正(変更)せずに、複数の実行環境向けにプログラムを出力できる。
+ソースコードを「一切」修正(変更)せずに  
+複数の実行環境向けにプログラムを出力できる。
 
 ---
 
@@ -87,4 +93,5 @@ Cross-Platform(Multi-Platform) なアプリ開発においては
 
 移植性が高い
 
-ソースコードを「極力」修正(変更)せずに、複数の実行環境向けにプログラムを出力できる。
+ソースコードを「極力」修正(変更)せずに  
+複数の実行環境向けにプログラムを出力できる。
