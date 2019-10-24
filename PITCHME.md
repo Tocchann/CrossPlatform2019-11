@@ -1,9 +1,12 @@
-# Cross-Platform なアプリ開発をするときに考えておきたい点
+## Cross-Platform なアプリ開発をするときに考えておきたい点
 
 +++
 
+## 自己紹介的な？
+
 とっちゃん  
-わんくま同盟
+わんくま同盟  
+Microsoft MVP for Developer Technologies Since 2005/10～
 
 ---
 
@@ -16,4 +19,3 @@
 ### スライド2
 
 3個のシャープ
-
