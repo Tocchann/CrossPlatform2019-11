@@ -2,24 +2,33 @@
 ## アプリ開発をするときに
 ## 考えておきたい点
 
+https://gitpitch.com/Tocchann/CrossPlatform2019-11
+
 +++
 
-## 自己紹介的な？
+### 自己紹介的な？
 
 とっちゃん  
 わんくま同盟
 
+@Toccchann
+https://www.facebook.com/toshiyuki.takahagi
+https://github.com/tocchann/
+
 Microsoft MVP for Developer Technologies  
 Since 2005/10～
 
-次回わんくま同盟東京勉強会は 12/14 予定です。  
-私もなんかしゃべります(ここだけの話、まだ決めてない)
++++
+
+次回わんくま同盟東京勉強会は 12/14 です！  
+私もしゃべります  
+(ここだけの話、まだ決めてない)
 
 ---
 
-## Cross-Platform な
-## アプリ開発をするときに
-## 考えておきたい点
+### Cross-Platform な
+### アプリ開発をするときに
+### 考えておきたい点
 
 # とは？
 
@@ -45,10 +54,10 @@ Cross-Platform(Multi-Platform)
 
 ### 結論から
 
-Cross-Platform/Multi-Platform なアプリ開発においては  
-*プロダクト(製品)* の  
-*ポータビリティ* を  
-*高く維持した状態* で  
+Cross-Platform(Multi-Platform) なアプリ開発においては  
+**プロダクト(製品)** の  
+**ポータビリティ** を  
+**高く維持した状態** で  
 開発すること
 
 が望ましい。
