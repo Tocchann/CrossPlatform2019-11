@@ -12,9 +12,12 @@ https://gitpitch.com/Tocchann/CrossPlatform2019-11
 わんくま同盟
 
 http://blogs.wankuma.com/tocchann/default.aspx
-@Tocchann
+
+各種SNSとか
+
+https://twitter.com/Tocchann
 https://www.facebook.com/toshiyuki.takahagi
-https://github.com/tocchann/
+https://github.com/tocchann
 
 Microsoft MVP for Developer Technologies  
 Since 2005/10～  
@@ -22,14 +25,14 @@ https://mvp.microsoft.com/ja-jp/PublicProfile/32182
 
 +++
 
-### わんくま同盟東京勉強会のお知らせ
+### わんくま同盟 東京勉強会 #119
 
-12/14 新宿お菜家で開催  
-私もしゃべります  
+2019/12/14 新宿お菜家で開催！  
+私もしゃべります！  
 (ここだけの話、まだ決めてない)
 
 続報は http://www.wankuma.com/seminar/ で！  
-https://wankuma.connpass.com/ でもOK(告知オンリー)
+https://wankuma.connpass.com/ でも告知！
 
 ---
 
@@ -54,22 +57,25 @@ Multi-Platform と呼ぶ場合もある
 
 ### 考えておきたい点？
 
-プログラムを作る上で、考慮しておくべき多々ある事柄のうち、特有でちょっとだけ気を付けておくといいようなことを考えてみました。
+プログラムを作る上で  
+考慮しておくべき事柄のうち  
+特有なものを  
+少しだけ並べてみました
 
 ---
 
 ### 一番大事なのは
 
 Cross-Platform(Multi-Platform) な  
-アプリ開発においては  
-**プロダクト(製品)** の  
+(アプリ))開発においては  
+**プロジェクト(プロダクト:製品)** の  
 **ポータビリティ** を  
 **高く維持した状態** で  
 開発を継続すること
 
 ---
 
-### ポータビリティ？
+### ポータビリティとは
 
 ポータビリティ: Portability
 
