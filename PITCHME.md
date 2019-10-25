@@ -8,18 +8,16 @@
 
 ### 自己紹介的な？
 
-とっちゃん  
+* とっちゃん  
 わんくま同盟
+blog:<http://blogs.wankuma.com/tocchann/default.aspx>
 
-<http://blogs.wankuma.com/tocchann/default.aspx>
+* 各種SNSとか  
+<https://twitter.com/Tocchann>  
+<https://www.facebook.com/toshiyuki.takahagi>  
+<https://github.com/tocchann>  
 
-各種SNSとか
-
-<https://twitter.com/Tocchann>
-<https://www.facebook.com/toshiyuki.takahagi>
-<https://github.com/tocchann>
-
-Microsoft MVP for Developer Technologies  
+* Microsoft MVP for Developer Technologies  
 Since 2005/10～  
 <https://mvp.microsoft.com/ja-jp/PublicProfile/32182>
 
@@ -36,9 +34,9 @@ Since 2005/10～
 
 ---
 
-### Cross-Platform な
-### アプリ開発をするときに
-### 考えておきたい点
+### Cross-Platform な  
+### アプリ開発をするときに  
+### 考えておきたい点  
 
 # とは？
 
@@ -48,7 +46,7 @@ Since 2005/10～
 
 * Cross-Platform  
 → 複数環境  
-* Multi-Platform と呼ぶ場合もある
+Multi-Platform と呼ぶ場合もある
 
 * アプリ開発  
 → エンドユーザーが利用するプログラムの開発
@@ -57,8 +55,8 @@ Since 2005/10～
 
 ### 考えておきたい点？
 
-プログラムを作る上で  
-考慮しておくべき事柄のうち  
+* プログラムを作る上で考慮しておくべき  
+事柄のうち  
 特有なものを  
 少しだけ並べてみました
 
@@ -66,7 +64,7 @@ Since 2005/10～
 
 ### 一番大事なのは
 
-Cross-Platform(Multi-Platform) な  
+* Cross-Platform(Multi-Platform) な  
 (アプリ))開発においては  
 **プロジェクト(プロダクト:製品)** の  
 **ポータビリティ** を  
@@ -77,38 +75,45 @@ Cross-Platform(Multi-Platform) な
 
 ### ポータビリティとは
 
-ポータビリティ: Portability
-
-#### 英辞郎より
-
-1. 携帯できること、携帯性、可搬性、軽便
-1. 《コ》移植性
+* ポータビリティ: Portability
+* 英辞郎より
+  1. 携帯できること、携帯性、可搬性、軽便
+  1. 《コ》移植性
 
 ---
 
 ### ポータビリティを高く維持？
 
-可搬性が高い
-
-ソースコードを「一切」修正(変更)せずに  
+* 可搬性が高い
+* ソースコードを **一切** 修正(変更)せずに  
 複数の実行環境向けにプログラムを出力できる。
 
 ---
 
 ### ポータビリティを高く維持？
 
-移植性が高い
-
-ソースコードを「極力」修正(変更)せずに  
+* 移植性が高い
+* ソースコードを **極力** 修正(変更)せずに  
 複数の実行環境向けにプログラムを出力できる。
 
 ---
 
-### データファイルの場合はどうなの？
+### バイナリデータファイルの場合は？
 
-* バイナリファイルはビットイメージで同一
-* バイナリの場合は、Endhian に注意
-* 文字コードは統一されているか
-* ファイル保存した時の改行コードはどうなっているか？
-* 書式化ファイル(XML/JSONなど)は規格に沿っているか？
+* ビットイメージの同一化
+* エンディアンを統一
+* 文字コードの統一または、文字コードの明示
+
+---
+
+### テキストファイルの場合は？
+
+* 文字コードの統一または、文字コードの明示
+* 改行コードの取り扱いの多様性対応
+* 規格にそって書式化テキストを扱っているか？
 * CSV の対応書式は意思統一されているか？
+  * UNICODE はあるが、UTF-8 は非公式
+
+---
+
+### もう少し具体的に！
