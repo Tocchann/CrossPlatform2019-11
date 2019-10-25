@@ -46,11 +46,11 @@ Since 2005/10～
 
 ### Cross-Platform なアプリ開発？
 
-Cross-Platform  
+* Cross-Platform  
 → 複数環境  
-Multi-Platform と呼ぶ場合もある
+* Multi-Platform と呼ぶ場合もある
 
-アプリ開発  
+* アプリ開発  
 → エンドユーザーが利用するプログラムの開発
 
 ---
