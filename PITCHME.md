@@ -2,7 +2,7 @@
 ## アプリ開発をするときに
 ## 考えておきたい点
 
-https://gitpitch.com/Tocchann/CrossPlatform2019-11
+<https://gitpitch.com/Tocchann/CrossPlatform2019-11>
 
 +++
 
@@ -11,17 +11,17 @@ https://gitpitch.com/Tocchann/CrossPlatform2019-11
 とっちゃん  
 わんくま同盟
 
-http://blogs.wankuma.com/tocchann/default.aspx
+<http://blogs.wankuma.com/tocchann/default.aspx>
 
 各種SNSとか
 
-https://twitter.com/Tocchann
-https://www.facebook.com/toshiyuki.takahagi
-https://github.com/tocchann
+<https://twitter.com/Tocchann>
+<https://www.facebook.com/toshiyuki.takahagi>
+<https://github.com/tocchann>
 
 Microsoft MVP for Developer Technologies  
 Since 2005/10～  
-https://mvp.microsoft.com/ja-jp/PublicProfile/32182
+<https://mvp.microsoft.com/ja-jp/PublicProfile/32182>
 
 +++
 
@@ -31,8 +31,8 @@ https://mvp.microsoft.com/ja-jp/PublicProfile/32182
 私もしゃべります！  
 (ここだけの話、まだ決めてない)
 
-続報は http://www.wankuma.com/seminar/ で！  
-https://wankuma.connpass.com/ でも告知！
+続報は <http://www.wankuma.com/seminar/> で！  
+<https://wankuma.connpass.com/> でも告知！
 
 ---
 
@@ -101,3 +101,14 @@ Cross-Platform(Multi-Platform) な
 
 ソースコードを「極力」修正(変更)せずに  
 複数の実行環境向けにプログラムを出力できる。
+
+---
+
+### データファイルの場合はどうなの？
+
+* バイナリファイルはビットイメージで同一
+* バイナリの場合は、Endhian に注意
+* 文字コードは統一されているか
+* ファイル保存した時の改行コードはどうなっているか？
+* 書式化ファイル(XML/JSONなど)は規格に沿っているか？
+* CSV の対応書式は意思統一されているか？
