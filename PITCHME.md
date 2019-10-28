@@ -15,13 +15,13 @@
   * <http://blogs.wankuma.com/tocchann/default.aspx>
 
 * 各種SNSとか  
-  Twitter
+  * Twitter
     * <https://twitter.com/Tocchann>  
-  Facebook
+  * Facebook
     * <https://www.facebook.com/toshiyuki.takahagi>  
-  Github
+  * Github
     * <https://github.com/tocchann>  
-  Microsoft MVP for Developer Technologies  
+  * Microsoft MVP for Developer Technologies  
     Since 2005/10～  
     * <https://mvp.microsoft.com/ja-jp/PublicProfile/32182>
 
