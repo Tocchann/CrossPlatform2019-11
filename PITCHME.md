@@ -3,6 +3,7 @@
 ## 考えておきたい点
 
 <https://gitpitch.com/Tocchann/CrossPlatform2019-11>
+![QRCode](Resources/qrcode.png)
 
 +++
 
