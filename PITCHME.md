@@ -3,7 +3,7 @@
 ## 考えておきたい点
 
 ![QRCode](Resources/qrcode.png)
-
+https://gitpitch.com/tocchann/CrossPlatform2019-11
 +++
 
 ### 自己紹介的な？
